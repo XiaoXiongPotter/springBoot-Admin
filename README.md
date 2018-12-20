@@ -46,3 +46,4 @@ management:
     </configuration>
 </plugin>
 注 如果你在配置中使用标准的Spring占位符（比如${foo}）且没有将useDefaultDelimiters属性设置为false，那构建时这些属性将被暴露出去。
+（详情见百度云盘）
